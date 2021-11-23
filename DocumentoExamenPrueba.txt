@@ -1,0 +1,2 @@
+Hola, este es un documento para mi repositorio GIT desde terminal
+
